@@ -1,0 +1,481 @@
+{
+  "user_111d1477": {
+    "id": "user_111d1477",
+    "name": "Sachin K.",
+    "email": "sachin@test.com",
+    "password_hash": "pbkdf2_sha256$0cc6d4dad097497b$6d2aeb337fdedcc70ac7036c2bd432b28e251efcf2dc6c91bab7c795bb207557",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Adventure",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T14:49:30.317425"
+  },
+  "user_f1193efd": {
+    "id": "user_f1193efd",
+    "name": "Rahul Kumar",
+    "email": "rahul@test.com",
+    "password_hash": "9c18ef8d7cb7b1221754f478fdf6ca9f4758188ca6003738792fc7bde1d4cccb",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T14:49:30.330358"
+  },
+  "user_5c56843a": {
+    "id": "user_5c56843a",
+    "name": "Sachin Sharma",
+    "email": "sachin_k2@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Luxury",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T14:51:38.972049"
+  },
+  "user_1663e5f2": {
+    "id": "user_1663e5f2",
+    "name": "Rahul Kumar",
+    "email": "rahul_k2@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T14:51:38.987980"
+  },
+  "user_7c83e80d": {
+    "id": "user_7c83e80d",
+    "name": "Aditi Rao",
+    "email": "aditi_r2@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T14:51:39.004672"
+  },
+  "user_8c460579": {
+    "id": "user_8c460579",
+    "name": "Rahul",
+    "email": "rahul_solo2@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T14:51:39.020998"
+  },
+  "user_12c0ec32": {
+    "id": "user_12c0ec32",
+    "name": "John David Kumar",
+    "email": "john_dk2@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T14:51:39.032148"
+  },
+  "user_fe69abeb": {
+    "id": "user_fe69abeb",
+    "name": "Sachin Sharma",
+    "email": "sachin_1d62@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Luxury",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:22:30.540035"
+  },
+  "user_c2bf5793": {
+    "id": "user_c2bf5793",
+    "name": "Rahul Kumar",
+    "email": "rahul_1d62@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:22:30.558658"
+  },
+  "user_ed43ef6c": {
+    "id": "user_ed43ef6c",
+    "name": "Aditi Rao",
+    "email": "aditi_1d62@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:22:30.572841"
+  },
+  "user_cdb62fea": {
+    "id": "user_cdb62fea",
+    "name": "Rahul",
+    "email": "rahul_solo_1d62@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:22:30.587585"
+  },
+  "user_fcca574a": {
+    "id": "user_fcca574a",
+    "name": "John David Kumar",
+    "email": "john_dk_1d62@test.com",
+    "password_hash": "8587898d7d9e3da7a832b597978d76e2b0662653c8cbce671b616aab0de605da",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:22:30.606301"
+  },
+  "user_982846e2": {
+    "id": "user_982846e2",
+    "name": "Alice User",
+    "email": "alice_3562@test.com",
+    "password_hash": "95941c768e16b6c6690213ff5b4ac632981d3d11b857521a6c865f892f28930e",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:42:39.068725"
+  },
+  "user_b82a719e": {
+    "id": "user_b82a719e",
+    "name": "Bob User",
+    "email": "bob_3562@test.com",
+    "password_hash": "0a1b16d4c1a2a08e2db439f6d52460f8b14549f9ae57df9df6c6729b3620b017",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:42:39.087752"
+  },
+  "user_46512c9b": {
+    "id": "user_46512c9b",
+    "name": "Siddharth Verma",
+    "email": "sid_3c13@test.com",
+    "password_hash": "b8b7644c6ec6a6da63c07225ac041bd3af79fb94e3a654e160a69ca4bce29561",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:54:47.176667"
+  },
+  "user_2fe9b2a4": {
+    "id": "user_2fe9b2a4",
+    "name": "Siddharth Verma",
+    "email": "sid_ca5e@test.com",
+    "password_hash": "b8b7644c6ec6a6da63c07225ac041bd3af79fb94e3a654e160a69ca4bce29561",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:54:57.903158"
+  },
+  "user_b5abd2dd": {
+    "id": "user_b5abd2dd",
+    "name": "Siddharth Verma",
+    "email": "sid_44bf@test.com",
+    "password_hash": "b8b7644c6ec6a6da63c07225ac041bd3af79fb94e3a654e160a69ca4bce29561",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T17:55:12.662847"
+  },
+  "user_5628ac12": {
+    "id": "user_5628ac12",
+    "name": "Alice Traveler",
+    "email": "alice_exp_44c1@test.com",
+    "password_hash": "92e6f6b657f08757ffb9f7de080cbd6236d8fa64a176a6346ce456341c2ea1e5",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T18:05:12.561548"
+  },
+  "user_b11b6c84": {
+    "id": "user_b11b6c84",
+    "name": "Bob Traveler",
+    "email": "bob_exp_44c1@test.com",
+    "password_hash": "218f37787e05307055337d698751c6bae97785bd7e75e2ec5d5177a3b1dd3afd",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T18:05:12.581656"
+  },
+  "user_abf107c7": {
+    "id": "user_abf107c7",
+    "name": "Alice Traveler",
+    "email": "alice_exp_1571@test.com",
+    "password_hash": "92e6f6b657f08757ffb9f7de080cbd6236d8fa64a176a6346ce456341c2ea1e5",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T18:08:13.283218"
+  },
+  "user_34d7c356": {
+    "id": "user_34d7c356",
+    "name": "Bob Traveler",
+    "email": "bob_exp_1571@test.com",
+    "password_hash": "218f37787e05307055337d698751c6bae97785bd7e75e2ec5d5177a3b1dd3afd",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-27T18:08:13.300337"
+  },
+  "user_b8780766": {
+    "id": "user_b8780766",
+    "name": "Alice Traveler",
+    "email": "alice_exp_fce9@test.com",
+    "password_hash": "92e6f6b657f08757ffb9f7de080cbd6236d8fa64a176a6346ce456341c2ea1e5",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-28T08:45:37.022424"
+  },
+  "user_f58ee8fb": {
+    "id": "user_f58ee8fb",
+    "name": "Bob Traveler",
+    "email": "bob_exp_fce9@test.com",
+    "password_hash": "218f37787e05307055337d698751c6bae97785bd7e75e2ec5d5177a3b1dd3afd",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "created_at": "2026-08-28T08:45:37.038921"
+  },
+  "user_85016fac": {
+    "id": "user_85016fac",
+    "name": "Aarav Explorer",
+    "email": "aarav_adaptive_test@example.com",
+    "password_hash": "pbkdf2_sha256$38abca9aaef74e28$92455e9973f1b2febb9c8861221c15ea32ce708ff25a6b168e145d62b24a1598",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "learned_preferences": {
+      "category_scores": {
+        "Adventure": 90,
+        "Food": 80,
+        "Museums": 50,
+        "Beach": 69
+      },
+      "preferred_budget_range": "Moderate",
+      "preferred_travel_distance_km": 12.0,
+      "preferred_activity_duration_hours": 2.5,
+      "food_preferences": [
+        "Local Specialties",
+        "Authentic Dining"
+      ],
+      "skipped_categories": [],
+      "manual_override": true
+    },
+    "created_at": "2026-10-05T15:21:55.112242"
+  },
+  "user_3dc5e8c7": {
+    "id": "user_3dc5e8c7",
+    "name": "Intruder User",
+    "email": "intruder_adaptive_test@example.com",
+    "password_hash": "pbkdf2_sha256$95f170b45ce64ad3$84dad8d0acd2c95870b384b2ccc2083a0b8f0f993089e65b607388232df07f88",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "learned_preferences": {
+      "category_scores": {
+        "Adventure": 65,
+        "Food": 85,
+        "Museums & Culture": 75,
+        "Nature & Parks": 80,
+        "Beach": 70,
+        "Heritage": 70,
+        "Shopping": 50
+      },
+      "preferred_budget_range": "Moderate",
+      "preferred_travel_distance_km": 20.0,
+      "preferred_activity_duration_hours": 2.0,
+      "food_preferences": [
+        "Local Specialties",
+        "Authentic Dining"
+      ],
+      "skipped_categories": []
+    },
+    "created_at": "2026-10-05T15:21:55.210268"
+  },
+  "user_f8c91c8c": {
+    "id": "user_f8c91c8c",
+    "name": "Adaptive Tester A",
+    "email": "adaptive_a@tripnova.ai",
+    "password_hash": "pbkdf2_sha256$3fafde6a6bd94abe$d1965b748c1eb33641a6acaffa2835e3a93c4ce83ff5dd22a92849ce03970a9c",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "learned_preferences": {
+      "category_scores": {
+        "Adventure": 65,
+        "Food": 85,
+        "Museums & Culture": 75,
+        "Nature & Parks": 80,
+        "Beach": 70,
+        "Heritage": 76,
+        "Shopping": 50
+      },
+      "preferred_budget_range": "Moderate",
+      "preferred_travel_distance_km": 20.0,
+      "preferred_activity_duration_hours": 2.0,
+      "food_preferences": [
+        "Local Specialties",
+        "Authentic Dining"
+      ],
+      "skipped_categories": []
+    },
+    "created_at": "2026-10-06T15:04:10.678605"
+  },
+  "user_8703f7da": {
+    "id": "user_8703f7da",
+    "name": "Adaptive Tester B",
+    "email": "adaptive_b@tripnova.ai",
+    "password_hash": "pbkdf2_sha256$059d277eb3994caf$491ba5218dfb6d264fa1e06f96f0a679e5b9a6ee84a54cb1eaf660c96c5c132d",
+    "profile_image": null,
+    "budget_preference": "Moderate",
+    "travel_style": "Balanced",
+    "favorite_activities": [
+      "Nature",
+      "Culture",
+      "Food"
+    ],
+    "learned_preferences": {
+      "category_scores": {
+        "Adventure": 65,
+        "Food": 85,
+        "Museums & Culture": 75,
+        "Nature & Parks": 80,
+        "Beach": 70,
+        "Heritage": 70,
+        "Shopping": 50
+      },
+      "preferred_budget_range": "Moderate",
+      "preferred_travel_distance_km": 20.0,
+      "preferred_activity_duration_hours": 2.0,
+      "food_preferences": [
+        "Local Specialties",
+        "Authentic Dining"
+      ],
+      "skipped_categories": []
+    },
+    "created_at": "2026-10-06T15:04:10.766700"
+  }
+}
